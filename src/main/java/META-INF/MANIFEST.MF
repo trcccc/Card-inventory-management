@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Main-Class: com.atguigu.springboot.SpringBoot04WebRestfulcrudApplication
+Class-Path: spring-tx-5.2.2.RELEASE.jar jquery-3.3.1.jar spring-beans-5.
+ 2.2.RELEASE.jar spring-aop-5.2.2.RELEASE.jar tomcat-embed-websocket-9.0
+ .29.jar spring-web-5.2.2.RELEASE.jar spring-expression-5.2.2.RELEASE.ja
+ r jakarta.validation-api-2.0.1.jar jboss-logging-3.4.1.Final.jar spring
+ -boot-starter-web-2.2.2.RELEASE.jar spring-core-5.2.2.RELEASE.jar snake
+ yaml-1.25.jar slf4j-api-1.7.29.jar spring-boot-starter-tomcat-2.2.2.REL
+ EASE.jar tomcat-embed-el-9.0.29.jar spring-boot-starter-jdbc-2.2.2.RELE
+ ASE.jar jackson-datatype-jdk8-2.10.1.jar classmate-1.5.1.jar attoparser
+ -2.0.5.RELEASE.jar unbescape-1.1.6.RELEASE.jar jackson-databind-2.10.1.
+ jar spring-boot-autoconfigure-2.2.2.RELEASE.jar jul-to-slf4j-1.7.29.jar
+  logback-classic-1.2.3.jar thymeleaf-spring5-3.0.11.RELEASE.jar log4j-a
+ pi-2.12.1.jar jackson-datatype-jsr310-2.10.1.jar hibernate-validator-6.
+ 0.18.Final.jar jackson-annotations-2.10.1.jar bootstrap-4.0.0.jar thyme
+ leaf-extras-java8time-3.0.4.RELEASE.jar spring-boot-starter-validation-
+ 2.2.2.RELEASE.jar HikariCP-3.4.1.jar jackson-module-parameter-names-2.1
+ 0.1.jar spring-webmvc-5.2.2.RELEASE.jar spring-jdbc-5.2.2.RELEASE.jar t
+ hymeleaf-3.0.11.RELEASE.jar spring-boot-starter-json-2.2.2.RELEASE.jar 
+ spring-boot-starter-thymeleaf-2.2.2.RELEASE.jar spring-context-5.2.2.RE
+ LEASE.jar jakarta.annotation-api-1.3.5.jar logback-core-1.2.3.jar jacks
+ on-core-2.10.1.jar popper.js-1.11.1.jar tomcat-embed-core-9.0.29.jar sp
+ ring-boot-2.2.2.RELEASE.jar spring-boot-starter-2.2.2.RELEASE.jar sprin
+ g-jcl-5.2.2.RELEASE.jar mysql-connector-java-8.0.15.jar log4j-to-slf4j-
+ 2.12.1.jar spring-boot-starter-logging-2.2.2.RELEASE.jar
+
